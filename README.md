@@ -31,6 +31,9 @@ Replace [dataset_name] with:
 *first for the first dataset
 *second for the second dataset
 
+#Wilcoxon Signed-Rank Test and SPSS Analysis
+To conduct the Wilcoxon signed-rank test, update the data as needed and run your preferred statistical analysis tool (e.g., SPSS) on the dataset.
+
 #Citation
 If you use the data or find the article useful, please cite:
 ```code
