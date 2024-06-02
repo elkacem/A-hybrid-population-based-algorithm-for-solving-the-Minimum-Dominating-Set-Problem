@@ -21,7 +21,7 @@ Replace [dataset_number] with:
 
 For faster execution, consider using the PyPy interpreter.
 
-## Statistical Analysis
+# Statistical Analysis
 - After completing the algorithm execution, you can analyze the results using the statistics.py script. Run it with the dataset name:
 
 python statistics.py [dataset_name]
@@ -31,10 +31,10 @@ Replace [dataset_name] with:
 - first for the first dataset
 - second for the second dataset
 
-# Wilcoxon Signed-Rank Test and SPSS Analysis
+## Wilcoxon Signed-Rank Test and SPSS Analysis
 - To conduct the Wilcoxon signed-rank test, update the data as needed and run your preferred statistical analysis tool (e.g., SPSS) on the dataset.
 
-# Citation
+## Citation
 - If you use the data or find the article useful, please cite:
 ```code
 @article{too2021spatial,
