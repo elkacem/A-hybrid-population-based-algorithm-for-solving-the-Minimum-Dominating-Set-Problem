@@ -1,6 +1,6 @@
 "# HCSA for-solving-the-Minimum-Dominating-Set-Problem" 
 
-![Cuckoo Guira cantara](https://fr.wikipedia.org/wiki/Guira_cantara#/media/Fichier:Guira_guira.jpg)
+![Cuckoo](https://mathworks.com/matlabcentral/mlc-downloads/downloads/30976dec-8eea-4aa6-887e-22076f83f103/dc1bd7ff-d7f2-4d02-8b64-38996815951b/images/1668951265.jpg)
 
 ## Introduction
 This repository contains source code for (HCSA-MDS) and analyzing its results.
