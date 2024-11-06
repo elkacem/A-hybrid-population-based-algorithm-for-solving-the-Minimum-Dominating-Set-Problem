@@ -37,8 +37,12 @@ Replace [dataset_name] with:
 # Citation
 - If you use the data or find the article useful, please cite:
 ```code
-@article{too2021spatial,
-  title={A-hybrid-population-based-algorithm-for-solving-the-Minimum-Dominating-Set-Problem},
-  author={Belkacem, Zouilekh and Sadek, Bouroubi },
-  journal={croatian operational research review},
+@article{zouilekh2024hybrid,
+  title={A hybrid population-based algorithm for solving the Minimum Dominating Set Problem},
+  author={Zouilekh, Belkacem and Bouroubi, Sadek},
+  journal={Croatian Operational Research Review},
+  volume={15},
+  number={2},
+  pages={185--198},
+  year={2024}
 }
